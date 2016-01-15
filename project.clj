@@ -32,6 +32,7 @@
                          ;; Appender deps
                          [com.taoensso/nippy   "2.10.0"]
                          [com.taoensso/carmine "2.12.1"]
+                         [com.novemberain/monger "3.0.1"]
                          [com.draines/postal   "1.11.4"]
                          [irclj                "0.5.0-alpha4"]]}
    :dev
